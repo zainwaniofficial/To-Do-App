@@ -37,7 +37,7 @@ This is a simple **Todo List App** built with **HTML, CSS, and JavaScript** that
 
 1. **Download or Clone the Repository**
    ```bash
-   git clone https://github.com/zainwaniofficial/todo-app.git
+   git clone https://github.com/zainwaniofficial/todo-app.git](https://github.com/zainwaniofficial/To-Do-App.git
    ```
 2. **Open `index.html` in a browser.**  
 3. Start adding tasks! 🎯  
